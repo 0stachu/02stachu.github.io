@@ -1,5 +1,5 @@
 // songs
-const songs = ['assets/music.mp3', 'assets/music1.mp3', 'assets/music2.mp3']; // Add your song files here
+const songs = ['assets/music.mp3 ] ; // Add your song files here
 let currentSongIndex = 0; // Index of the current song
 
 function playNextSong() {
@@ -8,7 +8,7 @@ function playNextSong() {
     
     // audio player
     audio.loop = false; // Don't loop the song itself
-    audio.volume = 0.2;
+    audio.volume = 0.3;
 
     // When song ends, play the next song
     audio.addEventListener('ended', () => {

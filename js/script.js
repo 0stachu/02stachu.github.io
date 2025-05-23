@@ -1,5 +1,5 @@
 // songs
-const songs = ['assets/music.mp3 ] ; // Add your song files here
+const songs = ['assets/music.mp3']; // Add your song files here
 let currentSongIndex = 0; // Index of the current song
 
 function playNextSong() {

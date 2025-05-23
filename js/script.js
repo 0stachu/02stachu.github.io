@@ -8,7 +8,7 @@ function playNextSong() {
     
     // audio player
     audio.loop = false; // Don't loop the song itself
-    audio.volume = 0.3;
+    audio.volume = 0.15;
 
     // When song ends, play the next song
     audio.addEventListener('ended', () => {

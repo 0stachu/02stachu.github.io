@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1374477523978813622/glk_IZ3u6F7hZcha84rFVHatoRkVie8xtwMGHQGTT8hak6ayz9iT9YX3ajL8DGJ3uAzu"; // WEBHOOK HERE
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1374477523978813622/glk_IZ3u6F7hZc------------------------uAzu"; // WEBHOOK HERE
         const statusMessage = document.getElementById("statusMessage");
 
         function getTimestamp() {
